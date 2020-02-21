@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Samuel's Programming Portfolio
 
 You can use the [editor on GitHub](https://github.com/Ozed1/ProgrammingPortfolio20/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
